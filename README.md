@@ -1,2 +1,2 @@
 # hello-world
-Repository created to learnd GitHub
+Repository created to learn GitHub
